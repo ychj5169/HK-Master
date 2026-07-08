@@ -3,11 +3,11 @@
 ## Course Information
 
 **Course:** INFS2822 – Programming for Data Analytics  
-**Institution:** UNSW Sydney
+**Institution:** UNSW Business School
 
 ## Project Overview
 
-This project develops a machine learning pipeline to forecast daily retail sales for a retail drug store chain. Historical sales records, store information, promotional campaigns, and competitor-related features were analysed through data preprocessing, exploratory data analysis, feature engineering, predictive modelling, and model evaluation to support data-driven business decisions.
+This project focuses on retail sales forecasting using Python. Historical sales records, store information, promotional activities, and competitor-related data were analysed to build and evaluate machine learning models for predicting daily sales.
 
 ## Programming Language
 
@@ -20,6 +20,7 @@ This project develops a machine learning pipeline to forecast daily retail sales
 - matplotlib
 - seaborn
 - scikit-learn
+- XGBoost
 
 ## Software
 
