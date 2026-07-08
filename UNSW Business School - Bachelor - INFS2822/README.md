@@ -29,3 +29,4 @@ This project focuses on retail sales forecasting using Python. Historical sales 
 ## Note
 
 This project was originally completed as part of a university group assignment.
+Due to GitHub's file size limit, the original `train.csv` dataset is not included in this repository.
