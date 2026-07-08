@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project develops a machine learning pipeline to forecast daily retail sales for a large pharmacy chain. Historical sales records, store information, promotional campaigns, and competitor-related features were analysed through data preprocessing, exploratory data analysis, feature engineering, predictive modelling, and model evaluation to support data-driven business decisions.
+This project develops a machine learning pipeline to forecast daily retail sales for a retail drug store chain. Historical sales records, store information, promotional campaigns, and competitor-related features were analysed through data preprocessing, exploratory data analysis, feature engineering, predictive modelling, and model evaluation to support data-driven business decisions.
 
 ## Programming Language
 
