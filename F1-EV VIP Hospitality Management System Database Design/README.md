@@ -1,26 +1,13 @@
-# F1-EV VIP and Hospitality Database System
+# F1-EV VIP Hospitality Management System Database Design
 
-## Course Information
+## Information
 
-**Course:** COMM2822 – Introduction to Databases for Business Analytics  
-**Institution:** UNSW Business School
+Designed a relational database for a F1-EV VIP hospitality business to manage VIP guests, race events, hospitality packages, venues, bookings, payments, and guest feedback.
 
-## Project Overview
+Created core tables such as VIP Guest, VIP Package, Race Event, Experience Venue, Booking, Payment, and Guest Feedback, using primary keys, foreign keys, and data rules to keep records consistent.
 
-This project focuses on the design and implementation of a relational database for an F1-EV VIP and Hospitality Management System. The project includes entity-relationship modelling, database schema design, data insertion, and SQL query development to support business reporting and database management.
+Wrote SQL queries to analyse membership level, customer nationality, carbon credits, venue type, customer type, and available venues. The project supports VIP customer management, member segmentation, and CRM-related operations.
 
-## Programming Language
+## Tools
 
-- SQL
-
-## Database
-
-- Oracle Database
-
-## Software
-
-- Oracle SQL Developer
-
-## Note
-
-This project was originally completed as part of a university group assignment.
+Oracle SQL, Relational Database Design, SQL Query
