@@ -1,5 +1,0 @@
-View(Sales)
-library(moments)
-library(ggplot2)
-library(dplyr)
-boxplot(Sales$Sales, main = "Boxplot for Sales", col = "yellow", ylab = "Sales Amount")

@@ -1,6 +1,0 @@
-View(Sales)
-library(moments)
-library(ggplot2)
-library(dplyr)
-plot(Sales$Profit,Sales$Sales)
-symbols(Sales$Profit~Sales$Sales,circles = Sales$Sales,inches = 0.3,bg="blue",main="Bubbleplot for Profit vs Sales",xlab = "Sales",ylab = "Profit")
