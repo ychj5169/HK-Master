@@ -1,22 +1,13 @@
-# Sales Data Analysis using R
+# Retail Profitability and Regional Sales Analysis in R
 
-## Course Information
+## Information
 
-Course: DPBS1190 – Data, Insights and Decisions  
-Institution: UNSW College (Diploma in Business)
+Analysed retail sales and profit data to understand how profitability varies across regions, months, product categories, and sales performance indicators.
 
-## Project Overview
+Used R to clean data, calculate summary statistics, and create visualisations for monthly profit trends, regional performance, and sales-profit relationships.
 
-This project analyses a retail sales dataset using R to explore business performance and identify factors affecting sales profitability. The analysis applies statistical methods and data visualisation to generate insights that support business decision-making.
+The project helps identify high-performing regions, seasonal profit changes, and potential areas for pricing, promotion, and regional sales strategy improvement.
 
-## Programming Language
+## Tools
 
-- R
-
-## Software
-
-- RStudio
-
-## Note
-
-This project was originally completed as part of university coursework.
+R, ggplot2, dplyr, Data Visualisation, Business Analysis
