@@ -2,7 +2,7 @@
 
 Welcome to my Business Analytics Portfolio.
 
-This repository contains a selection of academic programming projects completed during my Diploma and Bachelor's studies.
+This repository presents selected projects that highlight my practical skills in data analysis, programming, visualization, and business problem-solving.
 
 The projects demonstrate my learning and practical experience in:
 
